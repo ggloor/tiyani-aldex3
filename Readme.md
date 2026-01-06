@@ -9,9 +9,9 @@ Task 1 is to get ALDEx2 and ALDEx3 working on the selex dataset
 - download ALDEx3 from https://github.com/jsilve24/ALDEx3
 
 
-  if (!require("devtools", quietly = TRUE)) {
-    install.packages("devtools")
-  }
+    if (!require("devtools", quietly = TRUE)) {
+      install.packages("devtools")
+    }
 devtools::install_github("jsilve24/ALDEx3")
 
 
