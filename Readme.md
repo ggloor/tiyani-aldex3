@@ -13,5 +13,5 @@ Task 1 is to get ALDEx2 and ALDEx3 working on the selex dataset
   if (!require("devtools", quietly = TRUE)) {
     install.packages("devtools")
   }
-  devtools::install_github("jsilve24/ALDEx3")
+devtools::install_github("jsilve24/ALDEx3")
 ```
