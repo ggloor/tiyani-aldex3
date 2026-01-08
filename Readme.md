@@ -43,9 +43,18 @@ Now that I have ADLEx2 and other packages downloaded and I will move on to the t
  - I will provide the code and my understanding of the code below:
 
  - ``` {r}
+## Analysis code for sim_seq_data
+
+# importing the libraries
 
     library(ALDEx2)
     library(tidyverse)
     library(ggplot2)
     library(ggpattern)
     library(cowplot)
+
+# To ensure reproducibility
+    set.seed(12345)
+
+# Reading in Data  
+  rdat <- read.cvs(file.path("data_path"))
