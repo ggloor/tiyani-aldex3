@@ -20,4 +20,3 @@ devtools::install_github("jsilve24/ALDEx3")
 - Downloaded R and R-studio
 - Got a text editor setup and working
 - Finished the terminal setup and functional
-testing
