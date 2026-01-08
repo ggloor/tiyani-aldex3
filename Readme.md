@@ -57,4 +57,4 @@ Now that I have ADLEx2 and other packages downloaded and I will move on to the t
     set.seed(12345)
 
 # Reading in Data  
-  rdat <- read.cvs(file.path("data_path"))
+  rdat <- read.cvs(file.path("/Users/pranavdivvela/Desktop/3383/0_git/Data_files/TEST_DATA/sim_seq_dat.csv"))
