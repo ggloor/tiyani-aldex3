@@ -20,3 +20,26 @@ devtools::install_github("jsilve24/ALDEx3")
 - Downloaded R and R-studio
 - Got a text editor setup and working
 - Finished the terminal setup and functional
+
+## Currently working on how to download ADLEX2 through Bioconductor
+
+# this is command from the the Bioconductor - Will run it in the terminal
+``` {r}
+  if (!require("BiocManager", quietly = TRUE)) {
+    install.packages("BiocManager")
+    }
+  BiocManager::install("ALDEx2")
+
+  ```
+## Finished downloading the ALDEx2 and BiocManager
+
+## Now Moving on the downloading packages such as "tidyverse" and other packages
+  # ggplot2, ggpattern, cowplot
+
+Now that I have ADLEx2 and other packages downloaded and I will move on to the test analysis of sim_seq_data from a Michelle Nixon
+
+    "https://github.com/michellepistner/DAWG_workshop/blob/main/scripts/1.0_sim_analysis.R"
+
+ - I will provide the code and my understanding of the code below:
+
+ - 
