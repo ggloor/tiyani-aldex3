@@ -15,5 +15,8 @@ Task 1 is to get ALDEx2 and ALDEx3 working on the selex dataset
   }
 devtools::install_github("jsilve24/ALDEx3")
 ```
+## - Pranav's edits
 
-## Testing testing
+- Downloaded R and R-studio
+- Got a text editor setup and working
+- Finished the terminal setup and functional
