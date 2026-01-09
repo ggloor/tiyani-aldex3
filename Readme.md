@@ -58,3 +58,28 @@ Now that I have ADLEx2 and other packages downloaded and I will move on to the t
 
 # Reading in Data  
   rdat <- read.cvs(file.path("/Users/pranavdivvela/Desktop/3383/0_git/Data_files/TEST_DATA/sim_seq_dat.csv"))
+
+  ##Reading in the simulated flow data for bulding the scale model
+flow_data <- read.csv(file.path("/Users/pranavdivvela/Desktop/3383/0_git/Data_files/TEST_DATA/sim_seq_dat.csv"))
+
+## Inspecting elements
+
+  ## "Y" represents the OTU table
+Y <- t(rdat[,-1])
+
+## Vector denoting whether samples was in pre- or post- antibiotic condition.
+conds <- as.character(rdat[,1])
+
+## Fitting and the analyzing the orginal ALDEx2 model
+mod.base <- aldex(Y,conds) ## gamma=NULL meaning there is no level of unceritainty in the analysis
+mod.base %>% filter(we.eBH < 0.05)
+
+## Recreating ALDEx2
+mod.clr <- aldex(Y,conds, gamma = 1e-3)
+## even though the function was built to add uncertainty the value we assigned it so small that it doesn't affect anything
+ mod.clr %>% filter (we.eBH < 0.05)
+
+## Checking for concordance in effect sizes
+plot(mod.base$effect, mod.clr$effect, xlab = "Original ALDEx2
+  Effect Size", ylab = "CLR Scale Model Effect Size")
+abline(a=0,b=1, col = "red", lty = "dashed")
