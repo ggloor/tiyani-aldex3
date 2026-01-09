@@ -33,6 +33,9 @@ devtools::install_github("jsilve24/ALDEx3")
   ```
 ## Finished downloading the ALDEx2 and BiocManager
 
+Testing around and was following a video to get some feel to use R studio and how to use a data and set and other concepts in one of the paper
+
+
 ## Now Moving on the downloading packages such as "tidyverse" and other packages
   # ggplot2, ggpattern, cowplot
 
