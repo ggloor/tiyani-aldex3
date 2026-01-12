@@ -8,12 +8,12 @@ conds <- c(rep("k",103), rep("P",161))
 #KP.0 <- aldex(cbind(kin,pup), conditions=conds, gamma=0.2)
 #aldex.plot(KP.0) # effect plot
 #aldex.plot(KP.0, type='volcano')
-print("ALDEX2-done")
+
+print("ALDEX2-done") #Test output
 
 # ALDEx3
 # loading a non-compiled version from local github repository
 #devtools::load_all('~/Documents/0_git/projects/ALDEx3')
-
 
 library(ALDEx3)
       Y <- matrix(1:110, 10, 11)
@@ -22,7 +22,9 @@ library(ALDEx3)
 #      ## demonstrate formula interface and passing optional argument (gamma) to
 #      ## the scale model (clr)
       res <- ALDEx3::aldex(Y, ~condition, data, nsample=2000, scale=clr.sm, gamma=0.5)
-
+#  ## Had to add "ALDEx3::aldex()" to make the code work: for some reason it was not able to work 
+#  ## and started giving me the "Error in round(conds) : non-numeric argument to mathematical function"
+#  ## Till I made that change
 
 print("Test_Block_1")
 
@@ -37,12 +39,17 @@ data <- data.frame(condition=conds)
 print("Test_block_2")
 
 # does the calculation
+#  ## Had to add "ALDEx3::aldex()" to make the code work: for some reason it was not able to work 
+#  ## and started giving me the "Error in round(conds) : non-numeric argument to mathematical function"
+#  ## Till I made that change
 res <- ALDEx3::aldex(Y, ~condition, data, nsample=128, scale=clr.sm, gamma=1e-3)
 
 # summarize
 # The command was giving a error "could not find the function" so, It has been updated to newer command 
 # summary.aldex() --> summary()
 sum.0 <- summary(res)
+
+#Checkpoint to validate the pervious code is working
 print("Test_Block_3")
 
 # there is not a native plotting function yet!!
@@ -55,6 +62,10 @@ print("Test_block_4")
 
 ## now do for gamma of 0.3
 #res <- ALDEx3::aldex(Y, ~condition, data, nsample=128, scale=clr.sm, gamma=0.3)
+#  ## Had to add "ALDEx3::aldex()" to make the code work: for some reason it was not able to work 
+#  ## and started giving me the "Error in round(conds) : non-numeric argument to mathematical function"
+#  ## Till I made that change
+
 
 ## The command was giving a error "could not find the function" so, It has been updated to newer command 
 ## summary.aldex() --> summary()
@@ -68,8 +79,6 @@ print("Test_block_4")
 ## these are signficant with gamma
 #points(sum.3$std.error[sig3], sum.3$estimate[sig3], col='red', pch=19, cex=0.5)
 #abline(h=0)
-
-
 
 
 
