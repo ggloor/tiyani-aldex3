@@ -38,3 +38,7 @@ friends %>%
   filter(age>30) %>%
   arrange(age)
   
+
+data()
+view(mpg)
+?mpg
