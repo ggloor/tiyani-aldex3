@@ -21,6 +21,7 @@ library(ALDEx3)
       data <- data.frame(condition=condition)
 #      ## demonstrate formula interface and passing optional argument (gamma) to
 #      ## the scale model (clr)
+      
       res <- ALDEx3::aldex(Y, ~condition, data, nsample=2000, scale=clr.sm, gamma=0.5)
 #  ## Had to add "ALDEx3::aldex()" to make the code work: for some reason it was not able to work 
 #  ## and started giving me the "Error in round(conds) : non-numeric argument to mathematical function"
