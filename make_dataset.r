@@ -8,7 +8,7 @@
  min.occurrence = 0.0
 
 # do not include young soldier group
-addys <- FALSE
+addys <- TRUE
 
 # load the required R packages
 require(compositions) # exploratory data analysis of compositional data
@@ -56,8 +56,12 @@ d.m <- d[,colnames(d) %in% rownames(m)]
 # kindergarten, Pupils, mid_school, youth, young soldier, mid_age, elder, Centenarians
 # 3:6, 8:12, 13:14, 19:22, 19:29, 30:50, 60:80, >90
 
+
 kin <- d.m[, rownames(m)[as.numeric(m$Age) > 2 & as.numeric(m$Age) < 7 & m$Group == 'kindergarten']]
 pup <- d.m[, rownames(m)[as.numeric(m$Age) > 7 & as.numeric(m$Age) < 13 & m$Group == 'Pupils']]
+pup.age <-  data.frame(rbind(m[colnames(pup), "Age"]))
+colnames(pup.age) <- colnames(pup)
+
 mid <- d.m[, rownames(m)[as.numeric(m$Age) > 12 & as.numeric(m$Age) < 15 & m$Group == 'mid_school']]
 you <- d.m[, rownames(m)[as.numeric(m$Age) > 18 & as.numeric(m$Age) < 25 & m$Group == 'youth']]
 if(addys == TRUE) ys <- d.m[, rownames(m)[as.numeric(m$Age) > 18 & as.numeric(m$Age) < 25 & m$Group == 'young soldier']]
@@ -80,25 +84,50 @@ colnames(d.notinf) <- gsub("^X", "", colnames(d.notinf))
 # output is samples by column. 1391 OTUs, 1095 samples
 notinf.filt <- codaSeq.filter(d.notinf,min.prop=min.prop, max.prop=1, min.occurrence=min.occurrence	, samples.by.row=FALSE)
 
-
+# make the data table
 kin <- kin[rownames(notinf.filt),]
+# pull the ages
+kin.age <-  data.frame(rbind(m[colnames(kin), "Age"]))
+# rename both
 colnames(kin) <- paste('K_', colnames(kin), sep="")
+colnames(kin.age) <- colnames(kin)
+
 pup <- pup[rownames(notinf.filt),]
+pup.age <-  data.frame(rbind(m[colnames(pup), "Age"]))
 colnames(pup) <- paste('P_', colnames(pup), sep="")
+colnames(pup.age) <- colnames(pup)
+
 mid <- mid[rownames(notinf.filt),]
+mid.age <-  data.frame(rbind(m[colnames(mid), "Age"]))
 colnames(mid) <- paste('M_', colnames(mid), sep="")
+colnames(mid.age) <- colnames(mid)
+
 you <- you[rownames(notinf.filt),]
+you.age <-  data.frame(rbind(m[colnames(you), "Age"]))
 colnames(you) <- paste('Y_', colnames(you), sep="")
+colnames(you.age) <- colnames(you)
+
 if(addys == TRUE) {
   ys <- ys[rownames(notinf.filt),]
+  ys.age <-  data.frame(rbind(m[colnames(ys), "Age"]))
   colnames(ys) <- paste('S_', colnames(ys), sep="")
+  colnames(ys.age) <- colnames(ys)
+
 }
 mage <- mage[rownames(notinf.filt),]
+mage.age <-  data.frame(rbind(m[colnames(mage), "Age"]))
 colnames(mage) <- paste('A_', colnames(mage), sep="")
+colnames(mage.age) <- colnames(mage)
+
 eld <- eld[rownames(notinf.filt),]
+eld.age <-  data.frame(rbind(m[colnames(eld), "Age"]))
 colnames(eld) <- paste('E_', colnames(eld), sep="")
+colnames(eld.age) <- colnames(eld)
+
 cent <- cent[rownames(notinf.filt),]
+cent.age <-  data.frame(rbind(m[colnames(cent), "Age"]))
 colnames(cent) <- paste('C_', colnames(cent), sep="")
+colnames(cent.age) <- colnames(cent)
 
 save(kin, file="data/kin.Rda")
 save(pup, file="data/pup.Rda")
@@ -108,5 +137,12 @@ save(mage, file="data/mage.Rda")
 save(eld, file="data/eld.Rda")
 save(cent, file="data/cent.Rda")
 
+save(kin.age, file="data/kin.age.Rda")
+save(pup.age, file="data/pup.age.Rda")
+save(mid.age, file="data/mid.age.Rda")
+save(you.age, file="data/you.age.Rda")
+save(mage.age, file="data/mage.age.Rda")
+save(eld.age, file="data/eld.age.Rda")
+save(cent.age, file="data/cent.age.Rda")
 
 
