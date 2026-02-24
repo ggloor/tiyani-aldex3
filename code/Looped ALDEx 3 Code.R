@@ -1,4 +1,4 @@
-library(ALDEx2)
+
 library(ALDEx3)
 
 # Load all datasets
@@ -25,8 +25,8 @@ datasets <- list(
 pairs <- combn(names(datasets), 2)
 
 # START saving to PDF
-#pdf("~/Desktop/pairwise_analysis_plots.pdf", width=8, height=6)
-
+pdf("~/Desktop/3383/0_git/tiyani-aldex3/Results/pairwise_analysis_plots_with_clr.pdf", width=8, height=6)
+num <-0
 # Loop through each pair
 for (i in 1:ncol(pairs)) {
   
@@ -44,8 +44,7 @@ for (i in 1:ncol(pairs)) {
   data <- data.frame(condition = conds)
   
   print(paste("Running:", name1, "vs", name2))
-  num <- 0
-  print(num+1)
+  num <-print(num+1)
   
   # Run WITHOUT gamma (gamma ≈ 0)
   res_no_gamma <- ALDEx3::aldex(Y, ~condition, data, nsample=128, scale=clr.sm, gamma=1e-3)
@@ -55,17 +54,11 @@ for (i in 1:ncol(pairs)) {
   res_gamma <- ALDEx3::aldex(Y, ~condition, data, nsample=128, scale=clr.sm, gamma=0.3)
   sum_gamma <- summary(res_gamma)
   
-  # Plot 1: No gamma
-  plot(sum_no_gamma$std.error, sum_no_gamma$estimate,
-       main = paste(name1, "vs", name2),
-       sub = "Without Gamma (gamma = 1e-3)",
-       xlab = "Std Error", ylab = "Estimate", col="darkgreen")
+  # Setting Sig values according to no gamma result
   sig <- which(sum_no_gamma$p.val.adj < 0.05)
-  points(sum_no_gamma$std.error[sig], sum_no_gamma$estimate[sig], 
-         pch=19, col='red', cex=0.5)
-  abline(h=0)
+
   
-  # Plot 2: With gamma
+  # Plot: With gamma
   plot(sum_gamma$std.error, sum_gamma$estimate,
        main = paste(name1, "vs", name2),
        sub = "With Gamma (gamma = 0.3)",
@@ -78,6 +71,6 @@ for (i in 1:ncol(pairs)) {
   abline(h=0)
 }
 
-#dev.off()
+dev.off()
 
 print("All plots saved to PDF!")
