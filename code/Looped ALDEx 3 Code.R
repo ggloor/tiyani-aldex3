@@ -23,7 +23,7 @@ datasets <- list(
 
 # Get all pair combinations
 pairs <- combn(names(datasets), 2)
-
+all_results <- list()
 # START saving to PDF
 pdf("~/Desktop/3383/0_git/tiyani-aldex3/Results/pairwise_analysis_plots_with_clr.pdf", width=8, height=6)
 num <-0
@@ -70,6 +70,18 @@ for (i in 1:ncol(pairs)) {
          pch=19, col='red', cex=0.5)
   abline(h=0)
 }
+
+all_results[[paste(name1, "vs", name2)]] <- data.frame(
+  taxon = rownames(sum_gamma),
+  estimate_gamma = sum_gamma$estimate,
+  std_error_gamma = sum_gamma$std.error,
+  pval_gamma = sum_gamma$p.val,
+  pval_adj_gamma = sum_gamma$p.val.adj,
+  estimate_no_gamma = sum_no_gamma$estimate,
+  pval_adj_no_gamma = sum_no_gamma$p.val.adj,
+  comparison = paste(name1, "vs", name2)
+)
+
 
 dev.off()
 

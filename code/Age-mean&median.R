@@ -65,7 +65,7 @@ for (i in 1:ncol(pairs)) {
   print(paste("Running:", name1, "vs", name2))
   
   # Run ALDEx3 with gamma = 0.3
-  res_gamma <- ALDEx3::aldex(Y, ~condition, data, nsample=128, scale=clr.sm, gamma=0.3)
+  res_gamma <- ALDEx3::aldex(Y, ~condition, data, nsample=128, scale=tss.sm, gamma=0.3)
   sum_gamma <- summary(res_gamma)
   
   # Store mean and median estimates for both groups in this pair
@@ -95,7 +95,7 @@ group_summary <- group_summary[order(group_summary$group), ]
 print(group_summary)
 
 # Save plots to PDF
-pdf("~/Desktop/3383/0_git/tiyani-aldex3/Results/age_vs_effect_size.pdf", width=8, height=6)
+pdf("~/Desktop/3383/0_git/tiyani-aldex3/Results/age_vs_effect_size_tss.pdf", width=8, height=6)
 
 # ----- PLOT 1: Age Group vs Mean Effect Size -----
 par(mar = c(7, 5, 4, 2))
