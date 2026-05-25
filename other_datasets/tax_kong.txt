@@ -1,0 +1,2006 @@
+asv	Kingdom	Phylum	Class	Order	Family	Genus	Species
+SV_1	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_2	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_3	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_4	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	fragilis
+SV_5	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_6	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_7	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_8	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_9	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_10	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_11	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_12	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprocola
+SV_13	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_14	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_15	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_16	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_17	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_18	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_19	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_20	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	putredinis
+SV_21	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_22	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	dorei
+SV_23	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	caccae
+SV_24	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	merdae
+SV_25	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_26	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	pneumoniae
+SV_27	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_28	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_29	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	faecalis
+SV_30	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gnavus group	NA
+SV_31	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_32	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_33	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_34	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bromii
+SV_35	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	faecium
+SV_36	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	muciniphila
+SV_37	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	onderdonkii
+SV_38	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_39	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	NA
+SV_40	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_41	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_42	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_43	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ruminantium group	NA
+SV_44	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_45	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_46	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	intestinalis
+SV_47	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_48	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_49	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_50	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_51	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_52	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_53	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_54	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_55	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_56	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	invisus
+SV_57	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	smithii
+SV_58	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_59	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_60	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_61	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_62	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_63	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	dorei
+SV_64	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_65	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_66	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	NA
+SV_67	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_68	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bicirculans
+SV_69	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_70	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_71	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_72	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_73	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_74	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_75	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_76	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_77	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_78	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_79	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	hominis
+SV_80	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	NA
+SV_81	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_82	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	hormaechei
+SV_83	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	massiliensis
+SV_84	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_85	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_86	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	freundii
+SV_87	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_88	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_89	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	nexilis
+SV_90	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_91	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_92	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_93	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_94	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_95	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	varium
+SV_96	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_97	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_98	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Morganella	morganii
+SV_99	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	caeni
+SV_100	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_101	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_102	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_103	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_104	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	massiliensis
+SV_105	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_106	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_107	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_108	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_109	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_110	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	obeum
+SV_111	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_112	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_113	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	comes
+SV_114	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	variicola
+SV_115	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_116	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_117	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_118	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_119	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_120	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_121	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	NA
+SV_122	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_123	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-003	NA
+SV_124	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	NA
+SV_125	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_126	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	NA
+SV_127	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_128	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+SV_129	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	shahii
+SV_130	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	[Eubacterium] siraeum group	siraeum
+SV_131	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	splanchnicus
+SV_132	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	finegoldii
+SV_133	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_134	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_135	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_136	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_137	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_138	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_139	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_140	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	NA
+SV_141	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	goldsteinii
+SV_142	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_143	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprophilus
+SV_144	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_145	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_146	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_147	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_148	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	ilealis
+SV_149	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_150	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_151	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	NA
+SV_152	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_153	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_154	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_155	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_156	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_157	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_158	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_159	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_160	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+SV_161	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_162	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_163	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_164	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_165	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_166	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_167	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	aerofaciens
+SV_168	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_169	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_170	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_171	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_172	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	finegoldii
+SV_173	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	cellulosilyticus
+SV_174	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_175	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	NA
+SV_176	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_177	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	obeum
+SV_178	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	pneumoniae
+SV_179	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_180	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_181	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_182	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Massiliprevotella	NA
+SV_183	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	NA
+SV_184	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_185	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_186	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_187	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	faecis
+SV_188	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_189	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_190	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_191	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	NA
+SV_192	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	lwoffii
+SV_193	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_194	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_195	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_196	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_197	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	[Clostridium] innocuum group	NA
+SV_198	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	obesi
+SV_199	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_200	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_201	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_202	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_203	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	NA
+SV_204	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_205	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_206	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_207	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_208	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	cellulosilyticus
+SV_209	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	werkmanii
+SV_210	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_211	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_212	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_213	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_214	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_215	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	ventriosum
+SV_216	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	michiganensis
+SV_217	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_218	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_219	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_220	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	obeum
+SV_221	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	CAG-352	NA
+SV_222	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_223	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_224	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_225	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_226	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_227	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_228	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_229	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_230	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_231	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_232	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_233	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_234	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	salivarius
+SV_235	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	caeni
+SV_236	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_237	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	johnsonii
+SV_238	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	hansenii
+SV_239	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_240	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_241	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_242	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_243	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	NA
+SV_244	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_245	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_246	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	adolescentis
+SV_247	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	catenulatum
+SV_248	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_249	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	eggerthii
+SV_250	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	NA
+SV_251	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprocola
+SV_252	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_253	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_254	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	koseri
+SV_255	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_256	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Dysgonomonas	mossii
+SV_257	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_258	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_259	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_260	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_261	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_262	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+SV_263	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	CAG-56	NA
+SV_264	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Coprobacillus	cateniformis
+SV_265	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_266	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	ulcerans
+SV_267	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Proteocatella	NA
+SV_268	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_269	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_270	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	vulgaris
+SV_271	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	celatum
+SV_272	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_273	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_274	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_275	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	salyersiae
+SV_276	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_277	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_278	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_279	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_280	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_281	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_282	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_283	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_284	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_285	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_286	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_287	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Intestinibacter	NA
+SV_288	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_289	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	perfringens
+SV_290	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	hadrus
+SV_291	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_292	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_293	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_294	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_295	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	NA
+SV_296	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_297	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_298	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_299	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_300	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_301	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_302	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_303	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_304	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_305	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_306	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_307	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_308	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_309	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_310	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_311	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_312	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_313	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	clarus
+SV_314	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	celatum
+SV_315	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_316	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_317	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_318	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	pneumoniae
+SV_319	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	eggerthii
+SV_320	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_321	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	sartorii
+SV_322	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_323	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	hexanoica
+SV_324	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+SV_325	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_326	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_327	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	fragilis
+SV_328	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_329	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_330	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_331	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_332	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	nordii
+SV_333	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	NA
+SV_334	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	NA
+SV_335	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_336	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_337	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Extibacter	NA
+SV_338	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	NA
+SV_339	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_340	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_341	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_342	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	shahii
+SV_343	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_344	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_345	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_346	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Amedibacillus	NA
+SV_347	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_348	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_349	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Acidaminococcus	fermentans
+SV_350	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_351	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_352	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_353	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_354	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_355	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	micronuciformis
+SV_356	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_357	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_358	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	cellulosilyticus
+SV_359	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_360	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_361	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_362	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_363	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	hadrus
+SV_364	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_365	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_366	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_367	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_368	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_369	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_370	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_371	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_372	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_373	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	catus
+SV_374	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	hansenii
+SV_375	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_376	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_377	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	intestinalis
+SV_378	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_379	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Longibaculum	NA
+SV_380	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_381	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_382	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_383	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_384	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	salyersiae
+SV_385	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_386	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	NA
+SV_387	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gnavus group	NA
+SV_388	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	Paenalcaligenes	hominis
+SV_389	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_390	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_391	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_392	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_393	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_394	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_395	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	indistinctus
+SV_396	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_397	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_398	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_399	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_400	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_401	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_402	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_403	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_404	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	acidifaciens
+SV_405	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_406	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-003	NA
+SV_407	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	NA
+SV_408	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_409	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_410	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_411	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+SV_412	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_413	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	invisus
+SV_414	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	stutzeri
+SV_415	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_416	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	acidifaciens
+SV_417	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_418	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Catenibacterium	mitsuokai
+SV_419	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprocola
+SV_420	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_421	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_422	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+SV_423	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	NA
+SV_424	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_425	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_426	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_427	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_428	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Coprobacter	NA
+SV_429	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_430	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_431	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+SV_432	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_433	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_434	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	dorei
+SV_435	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_436	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	somerae
+SV_437	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_438	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_439	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	fragilis
+SV_440	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_441	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_442	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_443	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_444	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	NA
+SV_445	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	johnsonii
+SV_446	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_447	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_448	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_449	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_450	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_451	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	callidus
+SV_452	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_453	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_454	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_455	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_456	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_457	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_458	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_459	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Pyramidobacter	NA
+SV_460	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_461	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_462	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_463	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_464	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_465	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_466	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_467	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_468	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_469	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_470	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	inops
+SV_471	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_472	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_473	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	NA
+SV_474	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_475	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_476	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_477	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	finegoldii
+SV_478	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_479	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_480	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_481	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_482	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_483	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_484	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_485	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_486	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_487	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+SV_488	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_489	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_490	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_491	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_492	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	NA
+SV_493	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_494	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	NA
+SV_495	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_496	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Amedibacillus	NA
+SV_497	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_498	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Parvimonas	NA
+SV_499	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	breve
+SV_500	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	NA
+SV_501	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Frisingicoccus	NA
+SV_502	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Absiella	argi
+SV_503	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	sartorii
+SV_504	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_505	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_506	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Lelliottia	NA
+SV_507	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_508	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_509	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	acidophilus
+SV_510	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	nordii
+SV_511	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_512	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_513	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_514	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_515	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_516	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_517	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_518	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_519	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_520	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_521	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Thiopseudomonas	NA
+SV_522	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halobacteriaceae	Halobacterium	NA
+SV_523	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_524	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_525	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_526	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae AC2044 group	NA
+SV_527	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	faecis
+SV_528	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_529	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_530	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_531	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_532	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	NA
+SV_533	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_534	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group	NA
+SV_535	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	NA
+SV_536	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_537	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_538	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_539	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_540	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprophilus
+SV_541	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	massiliensis
+SV_542	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_543	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_544	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	NA
+SV_545	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_546	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_547	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Raoultella	ornithinolytica
+SV_548	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_549	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Faecalitalea	NA
+SV_550	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_551	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae AC2044 group	NA
+SV_552	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_553	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_554	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	NA
+SV_555	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	bohemicus
+SV_556	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_557	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_558	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	shahii
+SV_559	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_560	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_561	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_562	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	NA
+SV_563	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_564	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_565	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_566	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_567	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_568	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	NA
+SV_569	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	NA
+SV_570	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	haifense
+SV_571	Bacteria	Bacillota	Clostridia	Clostridiales	NA	NA	NA
+SV_572	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Allisonella	NA
+SV_573	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_574	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_575	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	obeum
+SV_576	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_577	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	putredinis
+SV_578	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_579	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_580	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_581	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_582	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_583	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	clarus
+SV_584	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_585	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_586	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	NA
+SV_587	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_588	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_589	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_590	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	xylaniphila
+SV_591	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_592	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	NA
+SV_593	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	celatum
+SV_594	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_595	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_596	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_597	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+SV_598	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_599	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_600	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_601	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	NA	NA
+SV_602	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	[Eubacterium] siraeum group	siraeum
+SV_603	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_604	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	NA
+SV_605	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	gallolyticus
+SV_606	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_607	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_608	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_609	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_610	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Amedibacillus	NA
+SV_611	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_612	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_613	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_614	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	Hafnia-Obesumbacterium	alvei
+SV_615	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_616	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_617	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_618	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_619	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_620	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_621	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_622	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	NA
+SV_623	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_624	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_625	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_626	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	callidus
+SV_627	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	onderdonkii
+SV_628	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-003	NA
+SV_629	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_630	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_631	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_632	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae FCS020 group	NA
+SV_633	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_634	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_635	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_636	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_637	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_638	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_639	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	crossotus
+SV_640	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bromii
+SV_641	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_642	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	NA
+SV_643	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	NA
+SV_644	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_645	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	georgiana
+SV_646	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_647	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	NA
+SV_648	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_649	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_650	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_651	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_652	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_653	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	ascorbata
+SV_654	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	NA
+SV_655	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	intestinalis
+SV_656	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_657	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_658	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_659	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_660	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	NA
+SV_661	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_662	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Pyramidobacter	NA
+SV_663	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_664	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_665	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_666	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	magna
+SV_667	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_668	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_669	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_670	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprophilus
+SV_671	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_672	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	NA
+SV_673	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_674	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_675	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+SV_676	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_677	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_678	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_679	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_680	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	[Eubacterium] siraeum group	NA
+SV_681	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	merdae
+SV_682	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_683	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_684	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_685	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_686	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	pneumoniae
+SV_687	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_688	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_689	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_690	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_691	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	NA
+SV_692	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_693	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NC2004 group	NA
+SV_694	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	NA
+SV_695	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	parasanguinis
+SV_696	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Bacteroides] pectinophilus group	NA
+SV_697	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_698	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	intestinalis
+SV_699	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_700	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	coli
+SV_701	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+SV_702	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_703	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_704	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	merdae
+SV_705	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_706	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_707	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_708	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Negativibacillus	NA
+SV_709	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalicatena	fissicatena
+SV_710	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_711	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_712	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	cellulosilyticus
+SV_713	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_714	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	nexilis
+SV_715	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_716	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	indistinctus
+SV_717	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_718	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_719	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_720	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_721	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_722	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_723	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	NA
+SV_724	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_725	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_726	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Intestinibacter	NA
+SV_727	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_728	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrio	NA
+SV_729	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_730	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	[Clostridium] innocuum group	NA
+SV_731	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_732	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_733	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_734	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_735	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_736	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_737	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprocola
+SV_738	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_739	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_740	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_741	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+SV_742	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_743	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_744	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	NA
+SV_745	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	gordonii
+SV_746	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bromii
+SV_747	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_748	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_749	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_750	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	muciniphila
+SV_751	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_752	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_753	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-003	NA
+SV_754	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gauvreauii group	NA
+SV_755	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_756	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_757	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_758	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_759	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_760	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_761	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_762	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Pseudocitrobacter	NA
+SV_763	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	NA
+SV_764	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	kerstersii
+SV_765	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_766	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_767	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_768	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	NA
+SV_769	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_770	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_771	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_772	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	obesi
+SV_773	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_774	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_775	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_776	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	NA
+SV_777	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_778	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_779	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	fragilis
+SV_780	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_781	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_782	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_783	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_784	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_785	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_786	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_787	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_788	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_789	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_790	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	wexlerae
+SV_791	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Ottowia	NA
+SV_792	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_793	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_794	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_795	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_796	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_797	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_798	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitaleaceae UCG-011	NA
+SV_799	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_800	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	dublinensis
+SV_801	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_802	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_803	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_804	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+SV_805	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_806	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_807	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_808	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	NA	NA
+SV_809	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_810	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	merdae
+SV_811	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	asaccharolytica
+SV_812	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_813	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_814	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_815	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	shahii
+SV_816	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_817	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	champanellensis
+SV_818	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_819	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_820	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_821	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_822	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_823	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_824	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_825	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_826	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	NA
+SV_827	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_828	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_829	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_830	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_831	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	NA
+SV_832	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	clara
+SV_833	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_834	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	CAG-352	NA
+SV_835	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	finegoldii
+SV_836	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_837	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_838	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_839	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+SV_840	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	NA
+SV_841	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_842	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_843	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	NA
+SV_844	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	sartorii
+SV_845	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_846	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_847	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_848	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_849	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	amalonaticus
+SV_850	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_851	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	NA
+SV_852	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_853	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_854	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_855	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_856	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_857	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_858	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_859	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	lutetiensis
+SV_860	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_861	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_862	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_863	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	NA
+SV_864	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_865	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_866	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	breve
+SV_867	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_868	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_869	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_870	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_871	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+SV_872	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	haifense
+SV_873	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	comes
+SV_874	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	towneri
+SV_875	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_876	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+SV_877	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_878	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_879	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	isatidis
+SV_880	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_881	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_882	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_883	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_884	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_885	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_886	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_887	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_888	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	NA
+SV_889	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_890	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_891	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	NA	NA	NA
+SV_892	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	NA	NA
+SV_893	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	secunda
+SV_894	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-003	NA
+SV_895	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_896	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_897	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_898	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	NA
+SV_899	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Ezakiella	NA
+SV_900	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_901	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_902	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_903	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_904	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	intestinalis
+SV_905	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_906	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_907	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	clara
+SV_908	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_909	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_910	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Catenibacterium	NA
+SV_911	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	NA
+SV_912	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_913	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Anaerovibrio	NA
+SV_914	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_915	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_916	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_917	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_918	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_919	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	NA
+SV_920	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_921	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_922	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_923	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	faecium
+SV_924	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_925	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_926	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_927	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_928	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_929	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_930	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_931	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_932	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_933	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	parvula
+SV_934	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_935	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	NA
+SV_936	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_937	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_938	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_939	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	NA
+SV_940	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-003	NA
+SV_941	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_942	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_943	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_944	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Proteiniclasticum	NA
+SV_945	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_946	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_947	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_948	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_949	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_950	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_951	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	hexanoica
+SV_952	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_953	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_954	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	salivarius
+SV_955	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_956	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	NA
+SV_957	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_958	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_959	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Gottschalkiaceae	Gottschalkia	NA
+SV_960	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_961	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	NA
+SV_962	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_963	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_964	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_965	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_966	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	NA
+SV_967	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_968	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_969	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_970	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_971	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_972	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_973	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	faecis
+SV_974	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_975	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	NA
+SV_976	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_977	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_978	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Raoultella	ornithinolytica
+SV_979	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_980	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_981	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_982	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	NA
+SV_983	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_984	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_985	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_986	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Plesiomonas	shigelloides
+SV_987	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_988	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_989	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_990	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_991	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_992	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_993	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_994	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_995	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	caecimuris
+SV_996	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	viscericola
+SV_997	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae AC2044 group	NA
+SV_998	Bacteria	Pseudomonadota	Alphaproteobacteria	NA	NA	NA	NA
+SV_999	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_1000	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1001	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	NA
+SV_1002	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1003	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1004	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1005	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1006	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	NA
+SV_1007	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_1008	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_1009	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1010	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_1011	Bacteria	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	Atopostipes	NA
+SV_1012	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	callidus
+SV_1013	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+SV_1014	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_1015	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Gelidibacter	NA
+SV_1016	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1017	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_1018	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	NA
+SV_1019	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1020	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1021	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	funiformis
+SV_1022	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_1023	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1024	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	elsdenii
+SV_1025	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1026	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella	lenta
+SV_1027	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1028	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1029	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1030	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+SV_1031	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	butyricum
+SV_1032	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_1033	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae Ga6A1 group	NA
+SV_1034	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1035	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	phocaeensis
+SV_1036	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_1037	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1038	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_1039	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1040	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	catus
+SV_1041	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1042	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+SV_1043	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Extibacter	NA
+SV_1044	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	albensis
+SV_1045	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	enterica
+SV_1046	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	secunda
+SV_1047	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1048	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	acidifaciens
+SV_1049	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_1050	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1051	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1052	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	champanellensis
+SV_1053	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1054	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_1055	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1056	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1057	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1058	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	nexilis
+SV_1059	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_1060	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1061	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1062	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1063	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1064	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	goldsteinii
+SV_1065	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1066	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella	lenta
+SV_1067	Bacteria	Bacillota	Bacilli	Izemoplasmatales	NA	NA	NA
+SV_1068	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1069	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Marvinbryantia	NA
+SV_1070	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bromii
+SV_1071	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_1072	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1073	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1074	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	flavefaciens
+SV_1075	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_1076	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_1077	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1078	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Pyramidobacter	NA
+SV_1079	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Senegalimassilia	NA
+SV_1080	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	finegoldii
+SV_1081	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ruminantium group	NA
+SV_1082	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1083	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	NA	NA
+SV_1084	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1085	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1086	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_1087	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Howardella	NA
+SV_1088	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae FCS020 group	NA
+SV_1089	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-003	NA
+SV_1090	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Pyramidobacter	piscolens
+SV_1091	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1092	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_1093	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Thermus	scotoductus
+SV_1094	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Coprobacter	NA
+SV_1095	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_1096	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_1097	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	pestis
+SV_1098	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	NA
+SV_1099	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_1100	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	ovatus
+SV_1101	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1102	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1103	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_1104	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	finegoldii
+SV_1105	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1106	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group	NA
+SV_1107	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_1108	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	finegoldii
+SV_1109	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1110	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1111	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1112	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1113	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_1114	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Adlercreutzia	equolifaciens
+SV_1115	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	johnsonii
+SV_1116	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	wadsworthensis
+SV_1117	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	[Clostridium] innocuum group	NA
+SV_1118	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1119	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	thetaiotaomicron
+SV_1120	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	NA
+SV_1121	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1122	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1123	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_1124	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1125	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Aggregatibacter	segnis
+SV_1126	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	ilealis
+SV_1127	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1128	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	goldsteinii
+SV_1129	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	acidifaciens
+SV_1130	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1131	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_1132	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1133	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	xylaniphila
+SV_1134	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	NA
+SV_1135	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1136	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	catus
+SV_1137	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_1138	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_1139	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_1140	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_1141	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1142	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1143	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	invisus
+SV_1144	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halobacteriaceae	Halobacterium	NA
+SV_1145	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	gilvus
+SV_1146	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	NA
+SV_1147	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_1148	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	NA	NA
+SV_1149	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1150	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1151	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_1152	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_1153	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	DTU089	NA
+SV_1154	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	micronuciformis
+SV_1155	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenella	minuta
+SV_1156	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Moryella	indoligenes
+SV_1157	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	dorei
+SV_1158	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	NA
+SV_1159	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_1160	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_1161	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1162	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1163	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	fluxus
+SV_1164	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1165	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1166	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Coprobacter	secundus
+SV_1167	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludicola	NA
+SV_1168	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halorubrum	NA
+SV_1169	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1170	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_1171	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Fenollaria	NA
+SV_1172	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_1173	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	psychrolimnae
+SV_1174	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1175	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Anaerovibrio	NA
+SV_1176	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_1177	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gauvreauii group	NA
+SV_1178	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_1179	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	gordonii
+SV_1180	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1181	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	NA
+SV_1182	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1183	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1184	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_1185	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_1186	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1187	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	NA
+SV_1188	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	faecis
+SV_1189	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1190	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+SV_1191	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_1192	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_1193	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-003	NA
+SV_1194	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_1195	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_1196	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_1197	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1198	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1199	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	cryaerophilus
+SV_1200	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_1201	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_1202	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_1203	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	producta
+SV_1204	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	NA
+SV_1205	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	NA
+SV_1206	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1207	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+SV_1208	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1209	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1210	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	alpinus
+SV_1211	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1212	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	variicola
+SV_1213	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group	NA
+SV_1214	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_1215	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	catus
+SV_1216	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1217	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1218	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1219	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	intestinalis
+SV_1220	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1221	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1222	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	champanellensis
+SV_1223	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	corporis
+SV_1224	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_1225	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+SV_1226	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitaleaceae UCG-011	NA
+SV_1227	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	dentium
+SV_1228	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Gelidibacter	NA
+SV_1229	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_1230	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1231	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_1232	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	callidus
+SV_1233	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+SV_1234	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Aminobacter	NA
+SV_1235	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	wexlerae
+SV_1236	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1237	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1238	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1239	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1240	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1241	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	pectinilyticus
+SV_1242	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1243	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_1244	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1245	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1246	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	arboriphilus
+SV_1247	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	comes
+SV_1248	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_1249	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1250	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lactonifactor	NA
+SV_1251	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1252	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1253	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Negativibacillus	NA
+SV_1254	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Thermus	scotoductus
+SV_1255	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	asaccharolytica
+SV_1256	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1257	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1258	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+SV_1259	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1260	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_1261	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_1262	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1263	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1264	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	wexlerae
+SV_1265	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1266	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	inulinivorans
+SV_1267	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	subterminale
+SV_1268	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter	NA
+SV_1269	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1270	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	parainfluenzae
+SV_1271	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bromii
+SV_1272	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1273	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1274	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Angelakisella	NA
+SV_1275	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1276	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1277	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	nordii
+SV_1278	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+SV_1279	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1280	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1281	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1282	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_1283	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1284	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_1285	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_1286	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_1287	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter	formigenes
+SV_1288	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Peptoniphilus	lacrimalis
+SV_1289	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1290	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1291	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1292	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	ascorbata
+SV_1293	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	vulgatus
+SV_1294	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprocola
+SV_1295	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_1296	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	muciniphila
+SV_1297	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1298	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Aggregatibacter	aphrophilus
+SV_1299	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	W5053	NA
+SV_1300	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	NA
+SV_1301	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	CAG-56	NA
+SV_1302	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1303	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_1304	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	intestinalis
+SV_1305	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_1306	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1307	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	NA	NA
+SV_1308	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bicirculans
+SV_1309	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1310	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_1311	Bacteria	Bacillota	Bacilli	Lactobacillales	Vagococcaceae	Vagococcus	fluvialis
+SV_1312	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	denitrificans
+SV_1313	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Acidaminococcus	fermentans
+SV_1314	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Mailhella	NA
+SV_1315	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	NA
+SV_1316	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	shahii
+SV_1317	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1318	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1319	Bacteria	Bacillota	Clostridia	Oscillospirales	NA	NA	NA
+SV_1320	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1321	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1322	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Angelakisella	NA
+SV_1323	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	NA
+SV_1324	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_1325	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1326	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalicatena	NA
+SV_1327	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_1328	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-003	NA
+SV_1329	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	sinus
+SV_1330	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1331	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1332	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	NA
+SV_1333	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	NA
+SV_1334	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	sartorii
+SV_1335	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1336	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1337	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	NA
+SV_1338	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Marvinbryantia	NA
+SV_1339	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1340	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	NA
+SV_1341	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	NA
+SV_1342	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gauvreauii group	gauvreauii
+SV_1343	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	NA
+SV_1344	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Adlercreutzia	NA
+SV_1345	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-003	NA
+SV_1346	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1347	Bacteria	Bacillota	Bacilli	Izemoplasmatales	NA	NA	NA
+SV_1348	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1349	Bacteria	Bacillota	Clostridia	Clostridia vadinBB60 group	NA	NA	NA
+SV_1350	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1351	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_1352	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1353	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1354	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1355	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	catus
+SV_1356	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1357	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_1358	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1359	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+SV_1360	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1361	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_1362	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_1363	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_1364	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	NA
+SV_1365	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1366	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1367	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_1368	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1369	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_1370	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	massiliensis
+SV_1371	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_1372	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	clarus
+SV_1373	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	eutactus
+SV_1374	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1375	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1376	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1377	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	massiliensis
+SV_1378	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	caeni
+SV_1379	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1380	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1381	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1382	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	NA
+SV_1383	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	NA
+SV_1384	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	oralis
+SV_1385	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	chinchillae
+SV_1386	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1387	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	[Eubacterium] siraeum group	siraeum
+SV_1388	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1389	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1390	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1391	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1392	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1393	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1394	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Anaerotruncus	colihominis
+SV_1395	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1396	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1397	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1398	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1399	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1400	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	NA
+SV_1401	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	NA
+SV_1402	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1403	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1404	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	mucilaginosa
+SV_1405	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Alkanindiges	NA
+SV_1406	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_1407	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_1408	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1409	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_1410	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	ventriosum
+SV_1411	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1412	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1413	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	NA	NA	NA
+SV_1414	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1415	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_1416	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_1417	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Anaerococcus	vaginalis
+SV_1418	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1419	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Faecalicatena	orotica
+SV_1420	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1421	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Sporomusaceae	Anaerosinus	NA
+SV_1422	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	NA
+SV_1423	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1424	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	NA
+SV_1425	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1426	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1427	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	NA
+SV_1428	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1429	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	stantonii
+SV_1430	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	gordonii
+SV_1431	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halorubrum	NA
+SV_1432	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_1433	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1434	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	paraputrificum
+SV_1435	Bacteria	Bacillota	Clostridia	Clostridia vadinBB60 group	NA	NA	NA
+SV_1436	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Fenollaria	NA
+SV_1437	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1438	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	NA	NA
+SV_1439	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1440	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1441	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1442	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_1443	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	secunda
+SV_1444	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1445	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1446	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	azotoformans
+SV_1447	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1448	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1449	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	NA
+SV_1450	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+SV_1451	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_1452	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1453	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
+SV_1454	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	obesi
+SV_1455	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1456	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1457	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1458	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_1459	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uniformis
+SV_1460	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Mogibacterium	NA
+SV_1461	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	NA
+SV_1462	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	indistinctus
+SV_1463	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1464	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1465	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1466	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1467	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	parasanguinis
+SV_1468	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Stenotrophomonas	acidaminiphila
+SV_1469	Bacteria	NA	NA	NA	NA	NA	NA
+SV_1470	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1471	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1472	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1473	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1474	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	cellulosilyticus
+SV_1475	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	perflava
+SV_1476	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1477	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Ruminiclostridium	NA
+SV_1478	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1479	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+SV_1480	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1481	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halobacteriaceae	Halobacterium	NA
+SV_1482	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1483	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1484	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1485	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
+SV_1486	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1487	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	NA
+SV_1488	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_1489	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1490	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1491	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1492	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1493	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1494	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1495	Bacteria	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	Akkermansia	NA
+SV_1496	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	stercoris
+SV_1497	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1498	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Allisonella	NA
+SV_1499	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1500	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1501	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1502	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	finegoldii
+SV_1503	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halorubrum	NA
+SV_1504	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	NA	NA
+SV_1505	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1506	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	DTU089	NA
+SV_1507	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII UCG-001	NA
+SV_1508	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	thailandicus
+SV_1509	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1510	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	pneumosintes
+SV_1511	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	NA
+SV_1512	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_1513	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1514	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Agathobacter	NA
+SV_1515	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1516	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1517	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1518	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	NA
+SV_1519	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1520	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	veronii
+SV_1521	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	massiliensis
+SV_1522	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Coprobacter	secundus
+SV_1523	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	NA
+SV_1524	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+SV_1525	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_1526	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1527	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Leyella	NA
+SV_1528	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1529	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Dielma	fastidiosa
+SV_1530	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1531	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1532	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	faecalis
+SV_1533	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+SV_1534	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Arenibacter	NA
+SV_1535	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+SV_1536	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludicola	NA
+SV_1537	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Epulopiscium	NA
+SV_1538	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1539	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	butyriciproducens
+SV_1540	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1541	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1542	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1543	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1544	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1545	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1546	Bacteria	Bacillota	Bacilli	Mycoplasmatales	Mycoplasmataceae	Ureaplasma	parvum
+SV_1547	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_1548	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_1549	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1550	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1551	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1552	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Pyramidobacter	piscolens
+SV_1553	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1554	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Melaminivora	NA
+SV_1555	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	Eoetvoesia	NA
+SV_1556	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	NA
+SV_1557	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1558	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Mitsuokella	NA
+SV_1559	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_1560	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_1561	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	prausnitzii
+SV_1562	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Ezakiella	massiliensis
+SV_1563	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1564	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_1565	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1566	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae FCS020 group	NA
+SV_1567	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_1568	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1569	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1570	Bacteria	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	intermedia
+SV_1571	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitaleaceae UCG-011	NA
+SV_1572	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Peptoniphilus	NA
+SV_1573	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_1574	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_1575	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	NA
+SV_1576	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1577	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1578	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halobacteriaceae	Halobacterium	NA
+SV_1579	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+SV_1580	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halolamina	NA
+SV_1581	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1582	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1583	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	anthropi
+SV_1584	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	NA
+SV_1585	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	NA
+SV_1586	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	massiliensis
+SV_1587	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1588	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	flavefaciens
+SV_1589	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_1590	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_1591	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1592	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1593	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gauvreauii group	NA
+SV_1594	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1595	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1596	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae AC2044 group	NA
+SV_1597	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+SV_1598	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halolamina	NA
+SV_1599	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae AC2044 group	NA
+SV_1600	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1601	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	NA
+SV_1602	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	NA
+SV_1603	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1604	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1605	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1606	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	smithii
+SV_1607	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halomicrobiaceae	Natronomonas	gomsonensis
+SV_1608	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1609	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter	NA
+SV_1610	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_1611	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	nexilis
+SV_1612	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	NA
+SV_1613	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1614	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1615	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	corporis
+SV_1616	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	delbrueckii
+SV_1617	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1618	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1619	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1620	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_1621	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Negativibacillus	NA
+SV_1622	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	NA	NA
+SV_1623	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_1624	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+SV_1625	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	mortiferum
+SV_1626	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_1627	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_1628	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Catenibacillus	NA
+SV_1629	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1630	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+SV_1631	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	NA
+SV_1632	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_1633	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	difficile
+SV_1634	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1635	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1636	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	NA
+SV_1637	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	[Clostridium] methylpentosum group	NA
+SV_1638	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1639	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1640	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1641	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1642	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	johnsonii
+SV_1643	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1644	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1645	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+SV_1646	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae FCS020 group	NA
+SV_1647	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1648	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1649	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	corporis
+SV_1650	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+SV_1651	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1652	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1653	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Massiliomicrobiota	NA
+SV_1654	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1655	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+SV_1656	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	massiliensis
+SV_1657	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halobacteriaceae	Halobacterium	NA
+SV_1658	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Arenibacter	NA
+SV_1659	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelotrichaceae UCG-003	bacterium
+SV_1660	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	caballi
+SV_1661	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-003	NA
+SV_1662	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1663	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_1664	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	variicola
+SV_1665	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1666	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+SV_1667	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_1668	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1669	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1670	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1671	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1672	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1673	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	fragi
+SV_1674	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1675	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	plautii
+SV_1676	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	NA
+SV_1677	Bacteria	Bacillota	Clostridia	Clostridia vadinBB60 group	NA	NA	NA
+SV_1678	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1679	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+SV_1680	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Pseudochrobactrum	saccharolyticum
+SV_1681	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	caccae
+SV_1682	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1683	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1684	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	faecis
+SV_1685	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	callidus
+SV_1686	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Acidaminococcus	fermentans
+SV_1687	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1688	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Moryella	NA
+SV_1689	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1690	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1691	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1692	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Caproiciproducens	NA
+SV_1693	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Gottschalkiaceae	Gottschalkia	NA
+SV_1694	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1695	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1696	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1697	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1698	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1699	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1700	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_1701	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1702	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1703	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	NA
+SV_1704	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	iners
+SV_1705	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1706	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	Varibaculum	NA
+SV_1707	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Peptostreptococcus	NA
+SV_1708	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	NA	NA	NA
+SV_1709	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1710	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	colicanis
+SV_1711	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1712	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1713	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1714	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	NA
+SV_1715	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-002	NA
+SV_1716	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	putredinis
+SV_1717	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	NA
+SV_1718	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Mitsuokella	NA
+SV_1719	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludicola	NA
+SV_1720	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter	formigenes
+SV_1721	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	NA
+SV_1722	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	mirabilis
+SV_1723	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1724	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1725	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+SV_1726	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	shahii
+SV_1727	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_1728	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1729	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1730	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+SV_1731	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gnavus group	NA
+SV_1732	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	NA
+SV_1733	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Peptoniphilus	grossensis
+SV_1734	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1735	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	UCG-009	NA
+SV_1736	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group	NA
+SV_1737	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1738	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	splanchnicus
+SV_1739	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_1740	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1741	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Anaerofilum	NA
+SV_1742	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1743	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Gabonibacter	massiliensis
+SV_1744	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1745	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_1746	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_1747	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	NA	NA
+SV_1748	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	NA
+SV_1749	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1750	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1751	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Thermus	NA
+SV_1752	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1753	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	delbrueckii
+SV_1754	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_1755	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1756	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	NA	NA	NA
+SV_1757	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1758	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Extibacter	NA
+SV_1759	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_1760	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	clara
+SV_1761	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	caccae
+SV_1762	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1763	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1764	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Massiliprevotella	NA
+SV_1765	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1766	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1767	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1768	Archaea	Halobacteriota	Halobacteria	Halobacterales	Halomicrobiaceae	Natronomonas	gomsonensis
+SV_1769	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillospira	NA
+SV_1770	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1771	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	NA
+SV_1772	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_1773	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Butyribacter	NA
+SV_1774	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	echinoides
+SV_1775	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	aerofaciens
+SV_1776	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bicirculans
+SV_1777	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	indistinctus
+SV_1778	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	NA
+SV_1779	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1780	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	NA	NA
+SV_1781	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Senegalimassilia	NA
+SV_1782	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Massiliomicrobiota	timonensis
+SV_1783	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Candidatus Soleaferrea	NA
+SV_1784	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1785	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+SV_1786	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	[Clostridium] methylpentosum group	NA
+SV_1787	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1788	Bacteria	Bacillota	Bacilli	Staphylococcales	Staphylococcaceae	Macrococcus	caseolyticus
+SV_1790	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	desulfuricans
+SV_1791	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	NA
+SV_1792	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	coprocola
+SV_1793	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Angelakisella	NA
+SV_1794	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1795	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter	formigenes
+SV_1796	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1797	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1798	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Parvimonas	NA
+SV_1799	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Catenibacillus	NA
+SV_1800	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_1801	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Thomasclavelia	NA
+SV_1802	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	NA
+SV_1803	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	piger
+SV_1804	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	S5-A14a	NA
+SV_1805	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	haemolyticum
+SV_1806	Bacteria	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	Elusimicrobium	NA
+SV_1807	Bacteria	Actinomycetota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	bifidum
+SV_1808	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1809	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1810	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	NA
+SV_1811	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+SV_1812	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	colorans
+SV_1813	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriales Incertae Sedis	NA	NA
+SV_1814	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1815	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1816	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+SV_1817	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	NA
+SV_1818	Bacteria	Bacillota	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group	NA	NA
+SV_1819	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludicola	NA
+SV_1820	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	formicigenerans
+SV_1821	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Fenollaria	NA
+SV_1822	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	difficile
+SV_1823	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	NA
+SV_1824	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	NA	NA
+SV_1825	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+SV_1826	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+SV_1827	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	eligens
+SV_1828	Bacteria	Bacillota	Clostridia	Clostridia UCG-014	NA	NA	NA
+SV_1829	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1830	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Extibacter	NA
+SV_1831	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	bacterium
+SV_1832	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	NA
+SV_1833	Bacteria	Bacillota	Clostridia	Clostridia vadinBB60 group	NA	NA	NA
+SV_1834	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1835	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	aerofaciens
+SV_1836	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1837	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenella	massiliensis
+SV_1838	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+SV_1839	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1840	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1841	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Caproiciproducens	NA
+SV_1842	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1843	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1844	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	NA	NA	NA
+SV_1845	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Solobacterium	moorei
+SV_1846	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1847	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1848	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Amedibacillus	NA
+SV_1849	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halorubrum	NA
+SV_1850	Bacteria	Actinomycetota	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	odontolytica
+SV_1851	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1852	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1853	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Lysobacter	NA
+SV_1854	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Segatella	NA
+SV_1855	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	NA
+SV_1856	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	denticola
+SV_1857	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1858	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1859	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	NA
+SV_1860	Bacteria	Bacillota	Clostridia	Clostridiales	Clostridiaceae	Clostridium	perfringens
+SV_1861	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1862	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	comes
+SV_1863	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1864	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae FCS020 group	NA
+SV_1865	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	vadensis
+SV_1866	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1867	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	bicirculans
+SV_1868	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1869	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1870	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1871	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Synergistes	jonesii
+SV_1872	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_1873	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Peptostreptococcus	anaerobius
+SV_1874	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	catus
+SV_1875	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	NA
+SV_1876	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	NA	NA
+SV_1877	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+SV_1878	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Agrobacterium	radiobacter
+SV_1879	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Paludicola	NA
+SV_1880	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Cuneatibacter	caecimuris
+SV_1881	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+SV_1882	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	Candidatus Methanomethylophilus	alvus
+SV_1883	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	nucleatum
+SV_1884	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	NA
+SV_1885	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	NA
+SV_1886	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1887	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1888	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] ventriosum group	NA
+SV_1889	Bacteria	Cyanobacteriota	Cyanobacteriia	Chloroplast	NA	NA	NA
+SV_1890	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	NA
+SV_1891	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella	lenta
+SV_1892	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Haoranjiania	NA
+SV_1893	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Howardella	NA
+SV_1894	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+SV_1895	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1896	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	concisus
+SV_1897	Bacteria	Bacillota	Bacilli	RF39	NA	NA	NA
+SV_1898	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Hydrogenoanaerobacterium	NA
+SV_1899	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1900	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1901	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+SV_1902	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+SV_1903	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	NA
+SV_1904	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+SV_1905	Bacteria	Pseudomonadota	Gammaproteobacteria	Cardiobacteriales	Wohlfahrtiimonadaceae	Ignatzschineria	NA
+SV_1906	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1907	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1908	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	NA
+SV_1909	Bacteria	Bacillota	Clostridia	Peptococcales	Peptococcaceae	NA	NA
+SV_1910	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1911	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	intermedia
+SV_1912	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	bivia
+SV_1913	Bacteria	Actinomycetota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	arilaitensis
+SV_1914	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-003	NA
+SV_1915	Bacteria	Bacillota	Clostridia	Peptococcales	Peptococcaceae	NA	NA
+SV_1916	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1917	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	NA
+SV_1918	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenella	NA
+SV_1919	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	nucleatum
+SV_1920	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	UCG-005	NA
+SV_1921	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1922	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1923	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+SV_1924	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Howardella	NA
+SV_1925	Bacteria	Bacillota	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	invisus
+SV_1926	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	NA	NA
+SV_1927	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1928	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	NA
+SV_1929	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	NA	NA
+SV_1930	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Tissierella	NA
+SV_1931	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Fastidiosipila	sanguinis
+SV_1932	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1933	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	NA
+SV_1934	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Paenochrobactrum	NA
+SV_1935	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1936	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Candidatus Soleaferrea	NA
+SV_1937	Bacteria	Bacillota	Incertae Sedis	DTU014	NA	NA	NA
+SV_1938	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII UCG-001	NA
+SV_1939	Bacteria	Bacillota	Clostridia	NA	NA	NA	NA
+SV_1940	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1941	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1942	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_1943	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1944	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_1945	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII AD3011 group	NA
+SV_1946	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	bennonis
+SV_1947	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Synergistes	jonesii
+SV_1948	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Thermus	NA
+SV_1949	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+SV_1950	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1951	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	NA
+SV_1952	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1953	Bacteria	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	NA
+SV_1954	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	CHKCI002	NA
+SV_1955	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Saprospiraceae	OLB8	NA
+SV_1956	Archaea	Halobacteriota	Halobacteria	Halobacterales	Haloferacaceae	Halorubrum	saccharovorum
+SV_1957	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	distasonis
+SV_1958	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	NA	NA
+SV_1959	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	alcalifaciens
+SV_1960	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	bennonis
+SV_1961	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_1962	Bacteria	Bacillota	Clostridia	Peptococcales	Peptococcaceae	Peptococcus	NA
+SV_1963	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family XIII UCG-001	NA
+SV_1964	Bacteria	Bacillota	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	NA
+SV_1965	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	lactis
+SV_1966	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Fructilactobacillus	NA
+SV_1967	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	NA	NA
+SV_1968	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	NA	NA
+SV_1969	Bacteria	Bacillota	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	NA
+SV_1970	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+SV_1971	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitaleaceae UCG-011	NA
+SV_1972	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Howardella	NA
+SV_1973	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	NA
+SV_1974	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Oscillospira	NA
+SV_1975	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
+SV_1976	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	NA
+SV_1977	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	asaccharolytica
+SV_1978	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1979	Bacteria	Bacillota	Clostridia	Peptococcales	Peptococcaceae	Peptococcus	NA
+SV_1980	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	NA
+SV_1981	Bacteria	Bacillota	Clostridia	Oscillospirales	Butyricicoccaceae	UCG-009	NA
+SV_1982	Bacteria	Bacillota	Clostridia	Peptococcales	Peptococcaceae	Peptococcus	NA
+SV_1983	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Peptoniphilus	lacrimalis
+SV_1984	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Anaerofilum	NA
+SV_1985	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	marmotae
+SV_1986	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriales Incertae Sedis	NA	NA
+SV_1987	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Weissella	cibaria
+SV_1988	Bacteria	Bacillota	Clostridia	Oscillospirales	NA	NA	NA
+SV_1989	Bacteria	Bacillota	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+SV_1990	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Nitrosomonas	NA
+SV_1992	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	NS9 marine group	NA	NA
+SV_1993	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+SV_1994	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	plebeius
+SV_1995	Bacteria	Bacteroidota	Bacteroidia	NA	NA	NA	NA
+SV_1996	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	disiens
+SV_1997	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	[Eubacterium] saphenum group	saphenum
+SV_1998	Bacteria	Bacillota	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitaleaceae UCG-011	NA
+SV_1999	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	hominis
+SV_2000	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Aggregatibacter	NA
+SV_2001	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Acutalibacter	NA
+SV_2002	Bacteria	Bacillota	Clostridia	Monoglobales	Monoglobaceae	Monoglobus	NA
+SV_2003	Bacteria	Bacillota	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Peptoniphilus	NA
+SV_2004	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	NA
+SV_2005	Bacteria	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	NA
+SV_2006	Bacteria	Bacillota	Clostridia	Oscillospirales	UCG-010	NA	NA
+SV_2007	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Macellibacteroides	NA

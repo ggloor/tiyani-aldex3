@@ -1,0 +1,169 @@
+sample-id	age	sex	group	subgroup
+SRR3679926	46	Female	Young 	Young adult 
+SRR3679927	60	Female	Young 	Young adult 
+SRR3679928	51	Male	Young 	Young adult 
+SRR3679929	72	Female	Young 	Elderly 
+SRR3679930	63	Female	Young 	Young adult 
+SRR3679931	67	Female	Young 	Elderly 
+SRR3679932	39	Male	Young 	Young adult 
+SRR3679933	35	Female	Young 	Young adult 
+SRR3679934	62	Female	Young 	Young adult 
+SRR3679935	53	Male	Young 	Young adult 
+SRR3679936	61	Male	Young 	Young adult 
+SRR3679937	40	Male	Young 	Young adult 
+SRR3679938	46	Male	Young 	Young adult 
+SRR3679939	62	Female	Young 	Young adult 
+SRR3679940	69	Female	Young 	Elderly 
+SRR3679941	67	Female	Young 	Elderly 
+SRR3679942	60	Male	Young 	Young adult 
+SRR3679943	58	Female	Young 	Young adult 
+SRR3679944	51	Female	Young 	Young adult 
+SRR3679945	63	Male	Young 	Young adult 
+SRR3679946	62	Male	Young 	Young adult 
+SRR3679947	57	Female	Young 	Young adult 
+SRR3679948	35	Male	Young 	Young adult 
+SRR3679949	46	Male	Young 	Young adult 
+SRR3679950	69	Female	Young 	Elderly 
+SRR3679951	51	Male	Young 	Young adult 
+SRR3679952	53	Female	Young 	Young adult 
+SRR3679953	46	Female	Young 	Young adult 
+SRR3679954	50	Female	Young 	Young adult 
+SRR3679955	57	Male	Young 	Young adult 
+SRR3679956	59	Male	Young 	Young adult 
+SRR3679957	40	Female	Young 	Young adult 
+SRR3679958	25	Female	Young 	Young adult 
+SRR3679959	96	Female	Long-living 	Nonagenarians 
+SRR3679960	92	Female	Long-living 	Nonagenarians 
+SRR3679961	102	Female	Long-living 	Centenarians 
+SRR3679962	94	Female	Long-living 	Nonagenarians 
+SRR3679963	100	Female	Long-living 	Centenarians 
+SRR3679964	94	Female	Long-living 	Nonagenarians 
+SRR3679965	90	Female	Long-living 	Nonagenarians 
+SRR3679966	98	Female	Long-living 	Nonagenarians 
+SRR3679967	92	Female	Long-living 	Nonagenarians 
+SRR3679968	90	Male	Long-living 	Nonagenarians 
+SRR3679969	90	Female	Long-living 	Nonagenarians 
+SRR3679970	91	Female	Long-living 	Nonagenarians 
+SRR3679971	91	Male	Long-living 	Nonagenarians 
+SRR3679972	91	Male	Long-living 	Nonagenarians 
+SRR3679973	91	Female	Long-living 	Nonagenarians 
+SRR3679974	93	Female	Long-living 	Nonagenarians 
+SRR3679975	90	Male	Long-living 	Nonagenarians 
+SRR3679976	94	Male	Long-living 	Nonagenarians 
+SRR3679977	93	Male	Long-living 	Nonagenarians 
+SRR3679978	97	Female	Long-living 	Nonagenarians 
+SRR3679979	92	Female	Long-living 	Nonagenarians 
+SRR3679980	101	Female	Long-living 	Centenarians 
+SRR3679981	94	Female	Long-living 	Nonagenarians 
+SRR3679982	97	Male	Long-living 	Nonagenarians 
+SRR3679983	92	Female	Long-living 	Nonagenarians 
+SRR3679984	90	Female	Long-living 	Nonagenarians 
+SRR3679985	96	Female	Long-living 	Nonagenarians 
+SRR3679986	92	Male	Long-living 	Nonagenarians 
+SRR3679987	90	Female	Long-living 	Nonagenarians 
+SRR3679988	90	Female	Long-living 	Nonagenarians 
+SRR3679989	90	Female	Long-living 	Nonagenarians 
+SRR3679990	91	Female	Long-living 	Nonagenarians 
+SRR3679991	91	Male	Long-living 	Nonagenarians 
+SRR3679992	90	Male	Long-living 	Nonagenarians 
+SRR3679993	92	Male	Long-living 	Nonagenarians 
+SRR3679994	91	Female	Long-living 	Nonagenarians 
+SRR3679995	94	Male	Long-living 	Nonagenarians 
+SRR3679996	96	Female	Long-living 	Nonagenarians 
+SRR3679997	94	Male	Long-living 	Nonagenarians 
+SRR3679998	90	Female	Long-living 	Nonagenarians 
+SRR3679999	93	Female	Long-living 	Nonagenarians 
+SRR3680000	91	Male	Long-living 	Nonagenarians 
+SRR3680001	100	Male	Long-living 	Centenarians 
+SRR3680002	91	Female	Long-living 	Nonagenarians 
+SRR3680003	91	Male	Long-living 	Nonagenarians 
+SRR3680004	40	Female	Young 	Young adult 
+SRR3680005	37	Male	Young 	Young adult 
+SRR3680006	46	Female	Young 	Young adult 
+SRR3680007	64	Male	Young 	Young adult 
+SRR3680008	48	Male	Young 	Young adult 
+SRR3680009	24	Female	Young 	Young adult 
+SRR3680010	58	Male	Young 	Young adult 
+SRR3680011	69	Male	Young 	Elderly 
+SRR3680012	64	Male	Young 	Young adult 
+SRR3680013	70	Male	Young 	Elderly 
+SRR3680014	63	Male	Young 	Young adult 
+SRR3680015	40	Female	Young 	Young adult 
+SRR3680016	61	Male	Young 	Young adult 
+SRR3680017	71	Male	Young 	Elderly 
+SRR3680018	60	Male	Young 	Young adult 
+SRR3680019	37	Male	Young 	Young adult 
+SRR3680020	57	Male	Young 	Young adult 
+SRR3680021	40	Female	Young 	Young adult 
+SRR3680022	63	Male	Young 	Young adult 
+SRR3680023	43	Male	Young 	Young adult 
+SRR3680024	65	Male	Young 	Elderly 
+SRR3680025	46	Male	Young 	Young adult 
+SRR3680026	83	Female	Young 	Elderly 
+SRR3680027	74	Female	Young 	Elderly 
+SRR3680028	77	Female	Young 	Elderly 
+SRR3680029	75	Male	Young 	Elderly 
+SRR3680030	67	Female	Young 	Elderly 
+SRR3680031	81	Male	Young 	Elderly 
+SRR3680032	68	Female	Young 	Elderly 
+SRR3680033	70	Female	Young 	Elderly 
+SRR3680034	73	Male	Young 	Elderly 
+SRR3680035	73	Male	Young 	Elderly 
+SRR3680036	74	Female	Young 	Elderly 
+SRR3680037	65	Female	Young 	Elderly 
+SRR3680038	75	Male	Young 	Elderly 
+SRR3680039	80	Female	Young 	Elderly 
+SRR3680040	77	Female	Young 	Elderly 
+SRR3680041	82	Male	Young 	Elderly 
+SRR3680042	82	Male	Young 	Elderly 
+SRR3680043	72	Male	Young 	Elderly 
+SRR3680044	69	Male	Young 	Elderly 
+SRR3680045	82	Male	Young 	Elderly 
+SRR3680046	76	Male	Young 	Elderly 
+SRR3680047	78	Male	Young 	Elderly 
+SRR3680048	72	Male	Young 	Elderly 
+SRR3680049	72	Male	Young 	Elderly 
+SRR3680050	78	Male	Young 	Elderly 
+SRR3680051	73	Male	Young 	Elderly 
+SRR3680052	70	Female	Young 	Elderly 
+SRR3680053	80	Female	Young 	Elderly 
+SRR3680054	71	Female	Young 	Elderly 
+SRR3680055	65	Male	Young 	Elderly 
+SRR3680056	66	Male	Young 	Elderly 
+SRR3680057	78	Female	Young 	Elderly 
+SRR3680058	72	Male	Young 	Elderly 
+SRR3680059	67	Female	Young 	Elderly 
+SRR3680060	76	Male	Young 	Elderly 
+SRR3680061	68	Male	Young 	Elderly 
+SRR3680062	77	Female	Young 	Elderly 
+SRR3680063	78	Male	Young 	Elderly 
+SRR3680064	71	Male	Young 	Elderly 
+SRR3680065	65	Female	Young 	Elderly 
+SRR3680066	66	Female	Young 	Elderly 
+SRR3680067	67	Female	Young 	Elderly 
+SRR3680068	68	Male	Young 	Elderly 
+SRR3680069	97	Female	Long-living 	Nonagenarians 
+SRR3680070	97	Female	Long-living 	Nonagenarians 
+SRR3680071	92	Female	Long-living 	Nonagenarians 
+SRR3680072	94	Female	Long-living 	Nonagenarians 
+SRR3680073	96	Female	Long-living 	Nonagenarians 
+SRR3680074	97	Female	Long-living 	Nonagenarians 
+SRR3680075	90	Female	Long-living 	Nonagenarians 
+SRR3680076	90	Male	Long-living 	Nonagenarians 
+SRR3680077	91	Female	Long-living 	Nonagenarians 
+SRR3680078	96	Female	Long-living 	Nonagenarians 
+SRR3680079	93	Male	Long-living 	Nonagenarians 
+SRR3680080	91	Male	Long-living 	Nonagenarians 
+SRR3680081	97	Male	Long-living 	Nonagenarians 
+SRR3680082	98	Male	Long-living 	Nonagenarians 
+SRR3680083	91	Male	Long-living 	Nonagenarians 
+SRR3680084	90	Male	Long-living 	Nonagenarians 
+SRR3680085	93	Male	Long-living 	Nonagenarians 
+SRR3680086	91	Female	Long-living 	Nonagenarians 
+SRR3680087	92	Male	Long-living 	Nonagenarians 
+SRR3680088	94	Male	Long-living 	Nonagenarians 
+SRR3680089	93	Female	Long-living 	Nonagenarians 
+SRR3680090	98	Female	Long-living 	Nonagenarians 
+SRR3680091	72	Male	Young 	Elderly 
+SRR3680092	25	Male	Young 	Young adult 
+SRR3680093	66	Female	Young 	Elderly 
