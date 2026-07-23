@@ -54,20 +54,32 @@ clr.const.sm <- function(X, logComp, const=0, gamma=0.5) {
 }
 ```
 
+## Datasets
+	- in vitro selection or selex 
+	- transcriptome (lab-generated)
+	- transcriptome (clinical samples)
+	- metatranscriptome
+	- pseudo-bulk single-cell 
+	- 16S rRNA gene sequencing data
+	
+### Analyzing an in-vitro selection (selex) dataset
 
-## The selex dataset
+We start with a dataset where is a known relationship between the groups. In the selex dataset, we have a situation where the non-selected (N) group is simply a random mixture of 1600 enzyme variants, and the selected group is those same enzyme variants after selection. Selection reads out as bacterial cell doublings for active enzymes, but the inactive enzymes do not grow. With this information, we have a situation where we know the directionality of change and that the relative (and absolute abundance) of the vast majority of enzyme variants do not change. With this prior knowledge in this analysis the correct biological interpretation is that the majority of the features should be distributed around an estimate of 0; that is, no change.
 
-Situation where there is a known relationship between the groups. In the selex dataset, we have a situation where one group is .... This means that the vast majority of the features in each group are at the same relative abundance, and only a few of them increase in absolute and relative abundance. Here the biological interpretation is that the majority of the features should be distributed around an estimate of 0.
-
+  - By chance in this system, using the clr from both ALDEx2 and ALDEx3  come very close to the actual biological truth and it is used as the reference. Most tools fail badly with this, and other unidirectionally changing datasets. 
+  
+  - The 
 An initial analysis using the `tss.sm` shows that the majority of features are centred around -2e8 fold below an estimate of 0. Here is where the `coeffient.sm` is an appropriate choice. 
 
 ```{r, selex, echo=T, eval=T}
-devtools::load_all('~/Documents/0_git/projects/ALDEx3')
+# load ALDEx3, change to standard when newest verison pushed to CRAN
+devtools::load_all('~/Documents/0_git/projects/ALDEx3', quiet=T)
+
 # load the selex data
 selex <- read.table('~/Documents/0_git/datasets/selex.txt', header=T, 
 	row.names=1, sep='\t')
 
-### setting up the conditions
+### setting up the conditions vector
 conds <- c(rep("N", 7), rep("S",7)) # common to ALDEx2/3
 X <- data.frame(conds) # needed for ALDEx3
 
@@ -81,14 +93,18 @@ sel.clr <- aldex(selex, ~conds, X, nsample=128, scale=clr.sm, gamma=0)
 sel.tss <- aldex(selex, ~conds, X, nsample=128, scale=tss.sm, gamma=0)
 
 # control over the model is given by using a coeffient model:
-sel.coeff <-  aldex(selex, ~conds, X, nsample=128, scale=coefficient.sm, c.mu=c(0,8), c.sd=c(0,0.5))
+sel.coeff <-  aldex(selex, ~conds, X, nsample=128, scale=coefficient.sm,
+  c.mu=c(0,8), c.sd=c(0,0.5))
 
 # the clr and tss are different in this dataset, but the 
 # coefficient model can be tuned to match the clr
 par(mfrow=c(1,3))
-aldex.plot(sel.clr, contrast='conds', plot='effect', cohen=1)
-aldex.plot(sel.tss, contrast='conds', plot='effect',cohen=1)
-aldex.plot(sel.coeff, contrast='conds', plot='effect',cohen=1)
+aldex.plot(sel.clr, contrast='conds', plot='effect', 
+  cohen=1, main='ALDEx3 clr')
+aldex.plot(sel.tss, contrast='conds', plot='effect',
+  cohen=1, main="ALDEx3 tss")
+aldex.plot(sel.coeff, contrast='conds', plot='effect',
+  cohen=1, main="ALDEx3 coeff")
 
 clr.eff <- aldex.effect(sel.clr, contrast='conds')
 coeff.eff <- aldex.effect(sel.coeff, contrast='conds')
