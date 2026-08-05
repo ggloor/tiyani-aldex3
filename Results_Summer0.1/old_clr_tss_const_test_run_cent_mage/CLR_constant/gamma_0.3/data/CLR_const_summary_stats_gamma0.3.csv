@@ -1,0 +1,2 @@
+"constant","comparison","pval_cor","pval_mae","pval_rmse","pval_median_diff","median_log_clr","median_log_tss","median_es_clr","median_es_tss","n_both","n_tss_only","n_clr_only","n_neither"
+0,"cent vs mage",0.968861825275687,0.217020914358993,0.463576067178168,0.0594305518740805,0.271618999761508,0.204019400335684,0.587056687143735,0.526690975468331,156,16,26,919
