@@ -4,7 +4,7 @@
 # Replaces the old custom clr_const/tss_const approach with the proper
 # coefficient.sm function from ALDEx3 v1.2.0:
 #   c.mu  = c(0, k)              — intercept=0, slope=k
-#   c.cor = diag(c(0, gamma^2))  — no intercept uncertainty, gamma on slope
+#   c.sd  = c(0, gamma)          - no intercept uncertainty, gamma on slope
 #
 # Sweeps constants (-1 to 1 by 0.1) for EACH gamma value.
 # Runs coefficient.sm, CLR(std), and TSS(std) for each constant.
@@ -536,7 +536,7 @@ for (gamma_val in gammas) {
       res_coeff <- ALDEx3::aldex(Y, ~condition, dat,
                                  nsample = nsample, scale = coefficient.sm,
                                  c.mu = c(0, k),
-                                 c.cor = diag(c(0, gamma_val^2)))
+                                 c.sd = c(0, gamma_val))
 
       # Standard CLR
       res_clr <- ALDEx3::aldex(Y, ~condition, dat,

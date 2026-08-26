@@ -1,7 +1,7 @@
 # =============================================================================
 # CLR vs CLR Reproducibility Test (v3.0)
 #
-# Uses coefficient.sm (c.mu + c.cor) to apply constant to model coefficients.
+# Uses coefficient.sm (c.mu + c.sd) to apply constant to model coefficients.
 # Compares coefficient model vs CLR(standard) vs TSS.
 #
 # Robustness = all_three / (all_three + coeff_only + clr_only + tss_only)
@@ -40,11 +40,11 @@ run_one_sweep <- function(Y, dat, constants, gamma_val, nsample) {
   for (k in constants) {
     cat("    constant =", k, "\n")
 
-    # Coefficient model: c.mu = c(intercept, slope), c.cor = covariance matrix
+    # Coefficient model: c.mu = c(intercept, slope), c.sd = c(intercept_sd, slope_sd)
     res_coeff <- ALDEx3::aldex(Y, ~condition, dat,
                                nsample = nsample, scale = coefficient.sm,
                                c.mu = c(0, k),
-                               c.cor = diag(c(0, gamma_val^2)))
+                               c.sd = c(0, gamma_val))
 
     # Standard CLR
     res_clr <- ALDEx3::aldex(Y, ~condition, dat,

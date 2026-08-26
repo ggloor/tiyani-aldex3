@@ -7,6 +7,7 @@
 #   - coords_unfilt: logFC/logCPM from unfiltered run (all OTUs, for plotting all points)
 #   - coords_filt:   logFC/logCPM from filtered run (kept OTUs only, different norm factors)
 #   - fdr:           FDR from filtered run (non-kept OTUs padded with 1)
+#   - fdr_unfilt:    FDR from unfiltered run (all 1117 OTUs tested)
 # Gamma = 0.3.
 
 library(ALDEx3)
@@ -100,22 +101,34 @@ for (i in 1:ncol(pairs)) {
     edger_fdr_full[keep] <- tt_f$FDR
     
     # ---- Store BOTH unfiltered and filtered coordinates ----
-    # coords_unfilt: logFC/logCPM from the unfiltered run (all OTUs)
-    #   - used for plotting all OTUs on MA plot
-    # coords_filt:   logFC/logCPM from the filtered run (kept OTUs only)
+    # coords_unfilt: logFC/logCPM/F/SE from the unfiltered run (all OTUs)
+    #   - used for plotting all OTUs on MA plot or effect-space plot
+    # coords_filt:   logFC/logCPM/F/SE from the filtered run (kept OTUs only)
     #   - different norm factors (only kept OTUs contribute)
+    # F:             QL F-statistic from glmQLFTest
+    # SE:            standard error of logFC, derived as |logFC| / sqrt(F)
     # keep:          logical mask — which OTUs passed filterByExpr
     # fdr:           FDR from filtered run, non-kept OTUs padded with 1
+    # fdr_unfilt:    FDR from unfiltered run (all 1117 OTUs tested, no filterByExpr)
     edger_list[[nm]] <- list(
       coords_unfilt = data.frame(OTU    = rownames(tt_all),
                                  logFC  = tt_all$logFC,
-                                 logCPM = tt_all$logCPM),
+                                 logCPM = tt_all$logCPM,
+                                 F_stat = tt_all$F,
+                                 SE     = ifelse(tt_all$F > 0,
+                                                 abs(tt_all$logFC) / sqrt(tt_all$F),
+                                                 NA)),
       coords_filt   = data.frame(OTU    = rownames(tt_f),
                                  logFC  = tt_f$logFC,
-                                 logCPM = tt_f$logCPM),
-      keep   = keep,
-      fdr    = edger_fdr_full,
-      n_kept = sum(keep)
+                                 logCPM = tt_f$logCPM,
+                                 F_stat = tt_f$F,
+                                 SE     = ifelse(tt_f$F > 0,
+                                                 abs(tt_f$logFC) / sqrt(tt_f$F),
+                                                 NA)),
+      keep       = keep,
+      fdr        = edger_fdr_full,
+      fdr_unfilt = tt_all$FDR,
+      n_kept     = sum(keep)
     )
   }
   
@@ -142,188 +155,120 @@ cat("\nAll results saved to:", out_dir, "\n\n")
 
 
 # #############################################################################
-# PART 2: PLOTTING
+# PART 2: PLOTTING \u2014 Prof Gloor style
+# #############################################################################
+#
+# Single-panel ALDEx3 effect plots with layered significance overlay.
+#   x-axis: std_error * sqrt(238)
+#   y-axis: estimate
+#   Colour scheme (all 4 categories distinct):
+#     - Neither:    grey open circles (base layer)
+#     - edgeR only: orange filled (pch=19)
+#     - ALDEx only: blue filled (pch=19, cex=0.5)
+#     - Both:       red filled (pch=19, cex=0.5, drawn last / on top)
+#
+# Produces BOTH filtered and unfiltered versions in separate folders:
+#   plots_filtered/   \u2014 edgeR FDR from filterByExpr run
+#   plots_unfiltered/ \u2014 edgeR FDR from all-OTU run (no filterByExpr)
+#
+# 2 ALDEx norms \u00d7 3 edgeR norms \u00d7 2 filter versions = 12 PDFs.
 # #############################################################################
 
-cat("===== PART 2: PLOTS =====\n\n")
+cat("===== PART 2: PLOTS (prof style) =====\n\n")
 
-# Loop over each normalization method, produce CLR vs edgeR and TSS vs edgeR PDFs
+sqrt_n <- sqrt(238)
+
+# Create separate output folders for filtered and unfiltered
+plot_dir_filt   <- file.path(out_dir, "plots_filtered")
+plot_dir_unfilt <- file.path(out_dir, "plots_unfiltered")
+dir.create(plot_dir_filt,   recursive = TRUE, showWarnings = FALSE)
+dir.create(plot_dir_unfilt, recursive = TRUE, showWarnings = FALSE)
+
+# --- Helper function: one PDF of 21 pages ---
+plot_prof_style <- function(aldex_norm, edger_norm, fdr_field, label,
+                            plot_out_dir) {
+
+  aldex_label <- toupper(aldex_norm)
+
+  pdf_name <- sprintf("effect_%s_edgeR_%s_%s_gamma%s.pdf",
+                       aldex_label, edger_norm, label,
+                       gsub("\\.", "", as.character(gamma_val)))
+  pdf(file.path(plot_out_dir, pdf_name), width = 8, height = 7)
+
+  for (i in 1:ncol(pairs)) {
+    comp <- paste(pairs[1, i], "vs", pairs[2, i])
+    r <- all_results[[comp]]
+
+    # ALDEx data
+    est <- r[[aldex_norm]]$estimate
+    se  <- r[[aldex_norm]]$std_error
+    x   <- se * sqrt_n
+    y   <- est
+
+    # Significance masks
+    sig_ald  <- r[[aldex_norm]]$pval_adj          < fdr_cut
+    sig_edge <- r$edger[[edger_norm]][[fdr_field]] < fdr_cut
+
+    both       <- sig_ald & sig_edge
+    edge_only  <- sig_edge & !sig_ald
+    ald_only   <- sig_ald & !sig_edge
+    neither    <- !sig_ald & !sig_edge
+
+    # Finite protection
+    fin <- is.finite(x) & is.finite(y)
+
+    # Axis limits
+    xlim <- range(x[fin], na.rm = TRUE) * c(0.95, 1.05)
+    ylim <- range(y[fin], na.rm = TRUE) * 1.05
+
+    # Layer 1: neither \u2014 grey open circles (base)
+    plot(x[neither & fin], y[neither & fin],
+         xlab = expression("Std Error" %*% sqrt(238)),
+         ylab = "Estimate",
+         main = paste0(comp, " \u2013 ", aldex_label,
+                       " (edgeR ", edger_norm, " ", label, ")"),
+         pch = 1, cex = 0.6, col = "grey60",
+         xlim = xlim, ylim = ylim)
+    abline(h = 0, col = "black")
+
+    # Layer 2: edgeR only \u2014 orange
+    if (any(edge_only & fin))
+      points(x[edge_only & fin], y[edge_only & fin],
+             col = "orange", pch = 19)
+
+    # Layer 3: ALDEx only \u2014 blue
+    if (any(ald_only & fin))
+      points(x[ald_only & fin], y[ald_only & fin],
+             col = "blue", pch = 19, cex = 0.5)
+
+    # Layer 4: Both \u2014 red (on top of everything)
+    if (any(both & fin))
+      points(x[both & fin], y[both & fin],
+             col = "red", pch = 19, cex = 0.5)
+
+    # Legend
+    legend("topleft",
+           legend = c(paste0("Both (", sum(both), ")"),
+                      paste0("edgeR only (", sum(edge_only), ")"),
+                      paste0(aldex_label, " only (", sum(ald_only), ")"),
+                      paste0("Neither (", sum(neither), ")")),
+           col = c("red", "orange", "blue", "grey60"),
+           pch = c(19, 19, 19, 1),
+           pt.cex = c(0.5, 1, 0.5, 0.6),
+           cex = 0.8, bg = "white")
+  }
+
+  dev.off()
+  cat(sprintf("  Saved: %s \u2192 %s\n", pdf_name, label))
+}
+
+# --- Generate all 12 PDFs ---
 for (nm in norm_methods) {
-  
-  # =========================================================================
-  # PLOT SET: CLR vs edgeR (current norm)
-  # =========================================================================
-  cat(sprintf("--- CLR vs edgeR %s ---\n", nm))
-  
-  pdf(file.path(out_dir, "plots",
-                sprintf("effect_cross_CLR_edgeR_%s_gamma%s.pdf",
-                        nm, gsub("\\.", "", as.character(gamma_val)))),
-      width = 12, height = 6)
-  
-  for (i in 1:ncol(pairs)) {
-    comp <- paste(pairs[1, i], "vs", pairs[2, i])
-    r <- all_results[[comp]]
-    
-    sig_clr   <- r$clr$pval_adj    < fdr_cut
-    sig_edger <- r$edger[[nm]]$fdr < fdr_cut
-    
-    both       <- sig_clr & sig_edger
-    edger_only <- sig_edger & !sig_clr
-    clr_only   <- sig_clr & !sig_edger
-    neither    <- !sig_clr & !sig_edger
-    
-    # --- Inf protection: filter non-finite values ---
-    fin_clr <- is.finite(r$clr$estimate) & is.finite(r$clr$std_error)
-    fin_edg <- is.finite(r$edger[[nm]]$coords_unfilt$logFC) & is.finite(r$edger[[nm]]$coords_unfilt$logCPM)
-    
-    xlim_clr <- range(r$clr$std_error[fin_clr], na.rm = TRUE) * c(0.95, 1.05)
-    xlim_edg <- range(r$edger[[nm]]$coords_unfilt$logCPM[fin_edg], na.rm = TRUE) * c(0.95, 1.05)
-    ylim_clr <- range(r$clr$estimate[fin_clr],  na.rm = TRUE) * 1.05
-    ylim_edg <- range(r$edger[[nm]]$coords_unfilt$logFC[fin_edg], na.rm = TRUE) * 1.05
-    
-    par(mfrow = c(1, 2), mar = c(4, 4, 3, 1))
-    
-    # ---- Left: CLR effect plot, edgeR sig overlay ----
-    plot(r$clr$std_error[neither & fin_clr], r$clr$estimate[neither & fin_clr],
-         xlab = "Std Error", ylab = "Estimate",
-         main = paste0(comp, " \u2013 CLR (edgeR ", nm, " sig overlay)"),
-         pch = 1, cex = 0.4, col = rgb(0.5, 0.5, 0.5, 0.2),
-         xlim = xlim_clr, ylim = ylim_clr)
-    abline(h = 0, col = "black")
-    abline(h = c(-1, 1), col = "grey60", lty = 3)
-    
-    if (any(both & fin_clr))
-      points(r$clr$std_error[both & fin_clr], r$clr$estimate[both & fin_clr],
-             pch = 19, cex = 0.7, col = "red")
-    if (any(edger_only & fin_clr))
-      points(r$clr$std_error[edger_only & fin_clr], r$clr$estimate[edger_only & fin_clr],
-             pch = 19, cex = 0.7, col = "blue")
-    
-    legend("topleft",
-           legend = c(paste0("Both (", sum(both), ")"),
-                      paste0("edgeR only (", sum(edger_only), ")"),
-                      paste0("Non-sig (", sum(!sig_edger), ")")),
-           col = c("red", "blue", rgb(0.5, 0.5, 0.5, 0.4)),
-           pch = c(19, 19, 1), cex = 0.7, bg = "white")
-    
-    # ---- Right: edgeR MA plot, CLR sig overlay ----
-    plot(r$edger[[nm]]$coords_unfilt$logCPM[neither & fin_edg],
-         r$edger[[nm]]$coords_unfilt$logFC[neither & fin_edg],
-         xlab = "logCPM", ylab = "logFC",
-         main = paste0(comp, " \u2013 edgeR ", nm, " (CLR sig overlay)"),
-         pch = 1, cex = 0.4, col = rgb(0.5, 0.5, 0.5, 0.2),
-         xlim = xlim_edg, ylim = ylim_edg)
-    abline(h = 0, col = "black")
-    abline(h = c(-1, 1), col = "grey60", lty = 3)
-    
-    if (any(both & fin_edg))
-      points(r$edger[[nm]]$coords_unfilt$logCPM[both & fin_edg],
-             r$edger[[nm]]$coords_unfilt$logFC[both & fin_edg],
-             pch = 19, cex = 0.7, col = "red")
-    if (any(clr_only & fin_edg))
-      points(r$edger[[nm]]$coords_unfilt$logCPM[clr_only & fin_edg],
-             r$edger[[nm]]$coords_unfilt$logFC[clr_only & fin_edg],
-             pch = 19, cex = 0.7, col = "orange")
-    
-    legend("topleft",
-           legend = c(paste0("Both (", sum(both), ")"),
-                      paste0("CLR only (", sum(clr_only), ")"),
-                      paste0("Non-sig (", sum(!sig_clr), ")")),
-           col = c("red", "orange", rgb(0.5, 0.5, 0.5, 0.4)),
-           pch = c(19, 19, 1), cex = 0.7, bg = "white")
-    
-    par(mfrow = c(1, 1))
-  }
-  dev.off()
-  cat(sprintf("  Saved: CLR vs edgeR %s effect cross plots\n", nm))
-  
-  
-  # =========================================================================
-  # PLOT SET: TSS vs edgeR (current norm)
-  # =========================================================================
-  cat(sprintf("--- TSS vs edgeR %s ---\n", nm))
-  
-  pdf(file.path(out_dir, "plots",
-                sprintf("effect_cross_TSS_edgeR_%s_gamma%s.pdf",
-                        nm, gsub("\\.", "", as.character(gamma_val)))),
-      width = 12, height = 6)
-  
-  for (i in 1:ncol(pairs)) {
-    comp <- paste(pairs[1, i], "vs", pairs[2, i])
-    r <- all_results[[comp]]
-    
-    sig_tss   <- r$tss$pval_adj    < fdr_cut
-    sig_edger <- r$edger[[nm]]$fdr < fdr_cut
-    
-    both       <- sig_tss & sig_edger
-    edger_only <- sig_edger & !sig_tss
-    tss_only   <- sig_tss & !sig_edger
-    neither    <- !sig_tss & !sig_edger
-    
-    # --- Inf protection: filter non-finite values ---
-    fin_tss <- is.finite(r$tss$estimate) & is.finite(r$tss$std_error)
-    fin_edg <- is.finite(r$edger[[nm]]$coords_unfilt$logFC) & is.finite(r$edger[[nm]]$coords_unfilt$logCPM)
-    
-    xlim_tss <- range(r$tss$std_error[fin_tss], na.rm = TRUE) * c(0.95, 1.05)
-    xlim_edg <- range(r$edger[[nm]]$coords_unfilt$logCPM[fin_edg], na.rm = TRUE) * c(0.95, 1.05)
-    ylim_tss <- range(r$tss$estimate[fin_tss],  na.rm = TRUE) * 1.05
-    ylim_edg <- range(r$edger[[nm]]$coords_unfilt$logFC[fin_edg], na.rm = TRUE) * 1.05
-    
-    par(mfrow = c(1, 2), mar = c(4, 4, 3, 1))
-    
-    # ---- Left: TSS effect plot, edgeR sig overlay ----
-    plot(r$tss$std_error[neither & fin_tss], r$tss$estimate[neither & fin_tss],
-         xlab = "Std Error", ylab = "Estimate",
-         main = paste0(comp, " \u2013 TSS (edgeR ", nm, " sig overlay)"),
-         pch = 1, cex = 0.4, col = rgb(0.5, 0.5, 0.5, 0.2),
-         xlim = xlim_tss, ylim = ylim_tss)
-    abline(h = 0, col = "black")
-    abline(h = c(-1, 1), col = "grey60", lty = 3)
-    
-    if (any(both & fin_tss))
-      points(r$tss$std_error[both & fin_tss], r$tss$estimate[both & fin_tss],
-             pch = 19, cex = 0.7, col = "red")
-    if (any(edger_only & fin_tss))
-      points(r$tss$std_error[edger_only & fin_tss], r$tss$estimate[edger_only & fin_tss],
-             pch = 19, cex = 0.7, col = "blue")
-    
-    legend("topleft",
-           legend = c(paste0("Both (", sum(both), ")"),
-                      paste0("edgeR only (", sum(edger_only), ")"),
-                      paste0("Non-sig (", sum(!sig_edger), ")")),
-           col = c("red", "blue", rgb(0.5, 0.5, 0.5, 0.4)),
-           pch = c(19, 19, 1), cex = 0.7, bg = "white")
-    
-    # ---- Right: edgeR MA plot, TSS sig overlay ----
-    plot(r$edger[[nm]]$coords_unfilt$logCPM[neither & fin_edg],
-         r$edger[[nm]]$coords_unfilt$logFC[neither & fin_edg],
-         xlab = "logCPM", ylab = "logFC",
-         main = paste0(comp, " \u2013 edgeR ", nm, " (TSS sig overlay)"),
-         pch = 1, cex = 0.4, col = rgb(0.5, 0.5, 0.5, 0.2),
-         xlim = xlim_edg, ylim = ylim_edg)
-    abline(h = 0, col = "black")
-    abline(h = c(-1, 1), col = "grey60", lty = 3)
-    
-    if (any(both & fin_edg))
-      points(r$edger[[nm]]$coords_unfilt$logCPM[both & fin_edg],
-             r$edger[[nm]]$coords_unfilt$logFC[both & fin_edg],
-             pch = 19, cex = 0.7, col = "red")
-    if (any(tss_only & fin_edg))
-      points(r$edger[[nm]]$coords_unfilt$logCPM[tss_only & fin_edg],
-             r$edger[[nm]]$coords_unfilt$logFC[tss_only & fin_edg],
-             pch = 19, cex = 0.7, col = "orange")
-    
-    legend("topleft",
-           legend = c(paste0("Both (", sum(both), ")"),
-                      paste0("TSS only (", sum(tss_only), ")"),
-                      paste0("Non-sig (", sum(!sig_tss), ")")),
-           col = c("red", "orange", rgb(0.5, 0.5, 0.5, 0.4)),
-           pch = c(19, 19, 1), cex = 0.7, bg = "white")
-    
-    par(mfrow = c(1, 1))
-  }
-  dev.off()
-  cat(sprintf("  Saved: TSS vs edgeR %s effect cross plots\n", nm))
+  cat(sprintf("--- edgeR %s ---\n", nm))
+  plot_prof_style("clr", nm, "fdr",        "filtered",   plot_dir_filt)
+  plot_prof_style("clr", nm, "fdr_unfilt", "unfiltered", plot_dir_unfilt)
+  plot_prof_style("tss", nm, "fdr",        "filtered",   plot_dir_filt)
+  plot_prof_style("tss", nm, "fdr_unfilt", "unfiltered", plot_dir_unfilt)
 }
 
 

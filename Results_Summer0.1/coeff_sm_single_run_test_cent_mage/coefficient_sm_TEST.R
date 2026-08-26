@@ -6,9 +6,9 @@
 #   Plot 1: 3-panel effect cross (unified 5 categories across all panels)
 #   Plot 2: 2-panel -log10(FDR) scatter (Coeff vs CLR, Coeff vs TSS)
 #
-# Uses coefficient.sm with c.cor (covariance matrix) per ALDEx3 v1.2.0 API:
-#   c.mu  = c(intercept_mean, slope_mean)  → c(0, k)
-#   c.cor = PxP covariance matrix          → diag(c(0, gamma^2))
+# Uses coefficient.sm with c.sd (std dev per coefficient) per ALDEx3 v1.3.0 API:
+#   c.mu = c(intercept_mean, slope_mean)  → c(0, k)
+#   c.sd = c(intercept_sd, slope_sd)      → c(0, gamma)
 #
 # Robustness = all_three / (all_three + coeff_only + clr_only + tss_only)
 #   1 = all normalizations agree, 0 = max disagreement
@@ -37,11 +37,11 @@ conds <- c(rep("cent", ncol(cent)), rep("mage", ncol(mage)))
 dat   <- data.frame(condition = conds)
 
 # ---- Run all three methods --------------------------------------------------
-cat("Running coefficient.sm (c.mu=c(0,", k, "), c.cor=diag(c(0,", gamma_val^2, ")))...\n")
+cat("Running coefficient.sm (c.mu=c(0,", k, "), c.sd=c(0,", gamma_val, "))...\n")
 res_coeff <- ALDEx3::aldex(Y, ~condition, dat,
                            nsample = nsample, scale = coefficient.sm,
                            c.mu = c(0, k),
-                           c.cor = diag(c(0, gamma_val^2)))
+                           c.sd = c(0, gamma_val))
 
 cat("Running CLR (standard)...\n")
 res_clr <- ALDEx3::aldex(Y, ~condition, dat,
